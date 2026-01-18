@@ -81,7 +81,7 @@
     <snapshotRepository>
       <id>snapshots</id>
       <name>Internal Snapshot Repository</name>
-      <url>http://<NEXUS_HOST>:8081/repository/maven-snapshots/</url>
+      <url>http://13.235.59.117:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
