@@ -74,7 +74,7 @@
   </build>
   <distributionManagement>
     <snapshotRepository>
-        <id>nexus</id>
+        <id>class-17</id>
         <url>http://13.204.223.127:8081/repository/class-17/</url>
     </snapshotRepository>
 
